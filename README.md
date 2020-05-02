@@ -39,6 +39,6 @@ Future Work
 Additional ideas I would like to pursue are:
 
     Explore other Machine learning Models to see if there are others that may predict the outcome better
-    More detailed EDA using visualizations
-    The effects if any of different random number seed and associated rand_interger ranges
+    The effects, if any, of using different associated rand_interger ranges
+    Explore using other SVM linear "C" and "kennel" parameters to test accurage or further optimize model
 
