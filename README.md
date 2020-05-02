@@ -26,13 +26,23 @@ Outcome
 Analysis: To account for level of difficulty and creativity and showcase basic data science skills. I will do most of my analysis using Python. 
 
 Timeline:
+
+Week 1 - Choose project
+
 Week 2 – Research and Data Preprocessing
+
 Week 3 – Explore Data in Multiple Formats (EDA part 1): Data munging and engineering
+
 Week 4 - Explore Data in Multiple Formats (EDA part 2): visualization
+
 Week 5 – Understanding the disease research – gestational diabetes
+
 Week 6 – Machine learning
+
 Week 7 – GitHub, PowerPoint presentation
+
 Week 8 – Finalize deliverables and Submit Results
+
 
 Future Work
 
